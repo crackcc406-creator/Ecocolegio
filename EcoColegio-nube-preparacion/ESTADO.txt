@@ -1,0 +1,6 @@
+EcoColegio - fase de preparación
+Diseño existente conservado.
+Autoregistro público oculto en la interfaz.
+Esquema Supabase + RLS y Edge Function de creación de estudiantes incluidos.
+IMPORTANTE: la app aún NO está conectada a Supabase y NO sincroniza entre dispositivos.
+No es un APK.
